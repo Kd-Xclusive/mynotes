@@ -27,4 +27,3 @@
 - **Friday**
   - *(No classes)*
 https://github.com/kd-xclusive/mynotes
-https://github.com/f25gbc/comp1238-asgn1-Kd-Xclusive
