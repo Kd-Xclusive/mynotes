@@ -26,5 +26,5 @@
 
 - **Friday**
   - *(No classes)*
-attempt 20
-https://github.com/kd-xclusive/mynotes
+attempt 21
+[https://github.com/kd-xclusive/mynotes](https://kd-xclusive.github.io/mynotes/)
