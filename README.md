@@ -24,7 +24,5 @@
   - 02:00 PM – [COMP1234 – Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/416188)
   - 04:00 PM – [MATH1162 – Math for Computer Technology I](https://learn.georgebrown.ca/d2l/home/398756)
 
-- **Friday**
-  - *(No classes)*
-attempt 21
+attempt 22
 [https://github.com/kd-xclusive/mynotes](https://kd-xclusive.github.io/mynotes/)
