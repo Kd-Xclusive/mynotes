@@ -26,4 +26,5 @@
 
 - **Friday**
   - *(No classes)*
+attempt 1
 https://github.com/kd-xclusive/mynotes
